@@ -1,4 +1,3 @@
-# drug-price-analysis
 # The Real Cost of Getting Better
 ### A Comparative Analysis of Drug Prices Across Canada, USA, UK, and India
 
