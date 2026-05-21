@@ -1,0 +1,11 @@
+Drug Name,Therapeutic Category,Drug Type,Canada CAD,USA CAD,UK CAD,India CAD,Cheapest Country,Most Expensive Country,Max Price Ratio (most expensive vs cheapest),Canada vs UK Ratio,Canada vs India Ratio,Canada vs USA Ratio,Annual Canada Cost CAD,Annual UK Cost CAD,Annual Savings if UK Pricing CAD
+Metformin 500mg (Generic),Diabetes,Generic,8.5,23.0,16.9,1.2,India,USA,19.2,0.5,7.1,0.4,102.0,202.8,-100.8
+Atorvastatin 40mg (Generic),Cardiovascular,Generic,11.2,17.0,5.1,2.4,India,USA,7.1,2.2,4.7,0.7,134.4,61.2,73.2
+Semaglutide 0.5mg (Brand),Diabetes,Brand,280.0,1020.0,102.0,68.0,India,USA,15.0,2.7,4.1,0.3,3360.0,1224.0,2136.0
+Salbutamol 100mcg Inhaler (Generic),Respiratory,Generic,9.8,92.0,3.4,3.1,India,USA,29.7,2.9,3.2,0.1,117.6,40.8,76.8
+Sertraline 50mg (Generic),Mental Health,Generic,12.4,14.0,3.4,1.8,India,USA,7.8,3.6,6.9,0.9,148.8,40.8,108.0
+Amoxicillin 500mg (Generic),Infectious Disease,Generic,14.0,16.0,3.4,0.8,India,USA,20.0,4.1,17.5,0.9,168.0,40.8,127.2
+Rosuvastatin 10mg (Generic),Cardiovascular,Generic,13.6,19.0,5.1,3.2,India,USA,5.9,2.7,4.2,0.7,163.2,61.2,102.0
+Duloxetine 60mg (Generic),Mental Health,Generic,38.0,29.0,6.8,6.4,India,Canada,5.9,5.6,5.9,1.3,456.0,81.6,374.4
+Montelukast 10mg (Generic),Respiratory,Generic,16.8,22.0,6.8,2.1,India,USA,10.5,2.5,8.0,0.8,201.6,81.6,120.0
+Ramipril 10mg (Generic),Cardiovascular,Generic,10.4,18.0,3.4,1.6,India,USA,11.2,3.1,6.5,0.6,124.8,40.8,84.0

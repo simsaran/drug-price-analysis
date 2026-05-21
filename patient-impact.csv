@@ -1,0 +1,11 @@
+Drug Name,Therapeutic Category,Monthly Cost Canada (uninsured) CAD,Monthly Cost UK (NHS flat charge) CAD,Monthly Cost USA (uninsured) CAD,Annual Cost Canada CAD,Annual Cost UK CAD,Annual Cost USA CAD,Annual Gap vs UK CAD,Annual Gap vs India CAD,As % of $40K Salary (Canada),ODB Eligible (Ontario),Private Insurance Covers,Uninsured Patient Pays
+Metformin 500mg (Generic),Diabetes,8.5,22.1,23.0,102.0,265.2,276.0,-163.2,87.6,0.3,Yes if on social assistance or 65+,Typically 80% after deductible,100% of listed price
+Atorvastatin 40mg (Generic),Cardiovascular,11.2,22.1,17.0,134.4,265.2,204.0,-130.8,105.6,0.3,Yes if on social assistance or 65+,Typically 80% after deductible,100% of listed price
+Semaglutide 0.5mg (Brand),Diabetes,280.0,22.1,1020.0,3360.0,265.2,12240.0,3094.8,2544.0,8.4,Yes if on social assistance or 65+,Typically 80% after deductible,100% of listed price
+Salbutamol 100mcg Inhaler (Generic),Respiratory,9.8,22.1,92.0,117.6,265.2,1104.0,-147.6,80.4,0.3,Yes if on social assistance or 65+,Typically 80% after deductible,100% of listed price
+Sertraline 50mg (Generic),Mental Health,12.4,22.1,14.0,148.8,265.2,168.0,-116.4,127.2,0.4,Yes if on social assistance or 65+,Typically 80% after deductible,100% of listed price
+Amoxicillin 500mg (Generic),Infectious Disease,14.0,22.1,16.0,168.0,265.2,192.0,-97.2,158.4,0.4,Yes if on social assistance or 65+,Typically 80% after deductible,100% of listed price
+Rosuvastatin 10mg (Generic),Cardiovascular,13.6,22.1,19.0,163.2,265.2,228.0,-102.0,124.8,0.4,Yes if on social assistance or 65+,Typically 80% after deductible,100% of listed price
+Duloxetine 60mg (Generic),Mental Health,38.0,22.1,29.0,456.0,265.2,348.0,190.8,379.2,1.1,Yes if on social assistance or 65+,Typically 80% after deductible,100% of listed price
+Montelukast 10mg (Generic),Respiratory,16.8,22.1,22.0,201.6,265.2,264.0,-63.6,176.4,0.5,Yes if on social assistance or 65+,Typically 80% after deductible,100% of listed price
+Ramipril 10mg (Generic),Cardiovascular,10.4,22.1,18.0,124.8,265.2,216.0,-140.4,105.6,0.3,Yes if on social assistance or 65+,Typically 80% after deductible,100% of listed price

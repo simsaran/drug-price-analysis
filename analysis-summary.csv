@@ -1,0 +1,16 @@
+Metric,Value,Notes
+Total drugs analysed,10,Across 5 therapeutic categories
+Countries compared,4,"Canada, USA, UK, India"
+Average monthly cost — Canada (CAD),41.47,"Uninsured patient, ODB list price"
+Average monthly cost — USA (CAD),127.0,GoodRx cash price
+Average monthly cost — UK (CAD),15.63,NHS Drug Tariff
+Average monthly cost — India (CAD),9.06,NPPA ceiling price
+Canada vs UK average premium,2.7x,Canada averages this multiple of UK price
+Canada vs India average premium,4.6x,Canada averages this multiple of India price
+Canada vs USA comparison,0.3x,Canada cheaper than USA on average
+Highest price ratio drug,Salbutamol 100mcg Inhaler (Generic),29.7x between cheapest and most expensive country
+Largest Canada vs UK gap,Duloxetine 60mg (Generic),5.6x more expensive in Canada
+Drugs on patent,1,Semaglutide (Ozempic) only in this sample
+Drugs off patent,9,Generic competition available
+Data collection method,Manual — public regulatory databases,"ODB, GoodRx, NHS Drug Tariff, NPPA"
+Analysis date,May 2026,Prices subject to change — point in time snapshot
