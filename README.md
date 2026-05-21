@@ -33,7 +33,7 @@ The answer is not the science. The price is determined by regulation, negotiatio
 | regulatory-comparison.csv | Full regulatory framework comparison across Canada, USA, UK, and India |
 | patient-impact.csv | Annual out-of-pocket cost for an uninsured Ontario resident vs NHS patient |
 | analysis-summary.csv | All headline numbers in one place |
-| drug-price-analysis.xlsx | Excel workbook with 3 sheets — price comparison, regulatory comparison, patient impact |
+| drug-price-analysis.xlsx | Excel workbook with 3 sheets; price comparison, regulatory comparison, patient impact |
 | analysis-report.pdf | Full briefing note style report with methodology, findings, and regulatory framework explanation |
 
 View the Looker Dashboard: https://datastudio.google.com/reporting/149ad617-d17b-4e6d-9962-b0eb7bd70811
